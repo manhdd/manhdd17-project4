@@ -1,4 +1,8 @@
-<include a CircleCI status badge, here>
+Badge: https://circleci.com/gh/manhdd/manhdd17-project4.svg?style=svg
+
+CircleCI: https://app.circleci.com/pipelines/github/manhdd/manhdd17-project4
+
+Github: https://github.com/manhdd/manhdd17-project4
 
 ## Project Overview
 
