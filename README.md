@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Trinhnt3027/DevOps_Udacity_Project4_Microservice/tree/main.svg?style=svg)]
+
 Badge: https://circleci.com/gh/manhdd/manhdd17-project4.svg?style=svg
 
 CircleCI: https://app.circleci.com/pipelines/github/manhdd/manhdd17-project4
